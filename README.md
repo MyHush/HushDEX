@@ -29,8 +29,8 @@ peer-to-peer like BitTorrent or Tor.
     * We will not feed the identity theft industry any more free data
   * No IP address limiting
     * It is trivial to pay for an IP address from any country in the world
-  * Alice's address never appears in public data
-  * Bob's address never appears in public data
+  * Alice's blockchain address never appears in public data
+  * Bob's blockchain address never appears in public data
   * Consequently, Alice and Bob's address cannot be searched for on an explorer
   * Since you can't see the address of any transaction, you cannot infer if
     the same address appears as sender or receiver in many transactions.
